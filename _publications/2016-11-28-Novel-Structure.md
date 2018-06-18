@@ -1,15 +1,16 @@
 ---
-title: "Novel Structure-Based Approach to Ease the Path to Translate Discontinuous Unstructured Protein Regions into Small Regular Architectures: de Novo Design of IL-10 Receptor Mimetics"
+title: "Rational Structure-Based Rescaffolding Approach to De Novo Design of Interleukin 10 (IL-10) Receptor-1 Mimetics"
 collection: publications
 permalink: /publication/2016-11-28-Novel-Structure
 excerpt: 'A paper about computational methods used to identify IL-10 Receptor candidate proteins.'
 date: 2016-11-28
 venue: 'PLoS One'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154046'
 citation: 'Ruiz-Gómez, Gloria., Hawkins, John., Philipp, Jenny., Künze, Georg., Löser, Reik., Fahmy, Karim., and Pisabarro,  M. Teresa.
-(2016) &quot; Novel Structure-Based Approach to Ease the Path to Translate Discontinuous Unstructured Protein Regions into Small Regular Architectures: de Novo Design of IL-10 Receptor Mimetics&quot; 
+(2016) &quot;Rational Structure-Based Rescaffolding Approach to De Novo Design of Interleukin 10 (IL-10) Receptor-1 Mimetics&quot; 
 <i>PLoS One.</i> Apr 28;11(4)'
 --- 
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154046)
+
