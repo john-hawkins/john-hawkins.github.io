@@ -83,7 +83,7 @@ author:
   bio              : "Data Scientist & Machine Learning Researcher"
   location         : "Sydney, Australia"
   employer         : "DataRobot.com"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=r4gj-VgAAAAJ&hl=en" 
   email            :
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
