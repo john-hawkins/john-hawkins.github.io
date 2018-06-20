@@ -10,11 +10,13 @@ location: "Sydney Australia"
 
 In this Sydney Data Science Sponsored Meet-Up talk I gave an 
 introduction of the idea of Model Factories, discussing the history of 
-the idea and how it has lead to AutoML.
+the idea and how it has lead to AutoML systems like DataRobot. 
+Ultimately enabling us to build new forms of automated ML systems.
 
-I then discussed how there are still many difficulties in fully 
-deploying a Model Factory as a solution to many business problems, and 
-discuss some of these issues. I then describe how you can bootstrap
+I discuss the difficulties in deploying a fully automated model deployment system.
+Describing the kinds of difficult model selection decisions that need to be converted
+into an algorithm. I delve into several examples of business problems, and 
+discuss some of the related issues. I then describe how you can bootstrap
 your way into developing effective Model Factories by using an
 AutoML system like DataRobot.
 
