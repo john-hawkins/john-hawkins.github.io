@@ -14,15 +14,18 @@ applications of machine learning to biological sequence classification and bioin
 His current research interests are in neural networks, Bayesian methods and variations of gradient boosting.
 
 
-Collaborators: Dr. Rohitash Chandra & Prof. Sally Cripps, Centre for Translational Data Science.
-
-
 Projects
 ==============
 
 ## Bayesian Neural Networks for Time Series Modelling
 
-Exploring variations on the design of Bayesian neural networks to make optimal usage of time series data and avoid noisy and uniformative events.
+Exploring variations on the design of Bayesian neural networks to make optimal usage of time series data and mitigate the 
+influence of noisy and uniformative events in historical data.
+
+
+Collaborators: Dr. Rohitash Chandra & Prof. Sally Cripps, Centre for Translational Data Science.
+
+
 
 
 
