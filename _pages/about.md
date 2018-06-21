@@ -17,13 +17,16 @@ His current research interests are in neural networks, Bayesian methods and vari
 Collaborators: Dr. Rohitash Chandra & Prof. Sally Cripps, Centre for Translational Data Science.
 
 
-Projects (TODO)
+Projects
 ==============
+
+## Bayesian Neural Networks for Time Series Modelling
+
+Exploring variations on the design of Bayesian neural networks to make optimal usage of time series data and avoid noisy and uniformative events.
 
 
 
 Contact
 -------
-
 John Hawkins
 
