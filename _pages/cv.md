@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Computer Science (Machine Learning), University of Queensland, 2007)
+* Assoc.Deg in Information Technology, Southern Cross University, 2001
+* B.A. in Philosophy, Newcastle University, 1999
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017: Data Scientist @ Channel Nine
+  * Building a large scale audience forecasting engine
+  * MapR Haddop Cluster 
+  * Spark, H2O, Python, R, Java & Scala
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2016: Data Scientist @ CBA 
+  * Building models for customer acquisition, retention and fraud
+  * Cloudera Hadoop Cluster
+  * R, Scala, Hive
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +48,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer teaching in the NSW Schools Primary Ethics program.
+
