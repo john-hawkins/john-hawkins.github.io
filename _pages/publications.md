@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
  
-Full list of my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>
+Full list of my articles on <u><a href="https://scholar.google.com/citations?user=r4gj-VgAAAAJ&hl=en">my Google Scholar profile</a>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
