@@ -4,7 +4,7 @@ collection: publications
 permalink:  /publications/2007-01-01-Idenitifying-Novel-Peoxisomal-Proeins 
 excerpt: ''
 date: 2007-01-01
-venue: ''
+venue: 'Proteins: structure, Function, and Bioinformatics'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-540-78839-3_10'
 citation: 'Hawkins, J., Mahony, D., Maetschke, S., Wakabayashi, M., Teasdale, R. and Boden, M., (2007).
 &quot;Identifying Novel Peroxisomal Proteins&quot; 
