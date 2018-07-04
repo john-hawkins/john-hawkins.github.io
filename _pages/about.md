@@ -11,7 +11,7 @@ redirect_from:
 Dr. John Hawkins is a data scientist with Boston based automated machine learning company [DataRobot](https://www.datarobot.com)
 and an affiliate researcher at the University of Sydney - Centre for Translational Data Science. 
 He has worked across multiple industries applying machine learning to business problems and published research in the application
-of machine learning to biological sequence classification and bioinformatics in general. 
+of machine learning to solve problems in molecular biology. 
 
 His current research interests are in Bayesian neural networks and variations of the gradient boosting algorithm.
 
@@ -29,9 +29,8 @@ Collaborators: Dr. Rohitash Chandra & Prof. Sally Cripps, Centre for Translation
 
 
 
-
-
 Contact
 -------
 John Hawkins
+
 
