@@ -1,8 +1,8 @@
 ---
 title: "Identifying Novel Peroxisomal Proteins"
 collection: publications
-permalink:  /publications/2007-Idenitifying-Novel-Peoxisomal-Proeins 
-excerpt: '.'
+permalink:  /publications/2007-01-01-Idenitifying-Novel-Peoxisomal-Proeins 
+excerpt: ''
 date: 2007-01-01
 venue: ''
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-540-78839-3_10'

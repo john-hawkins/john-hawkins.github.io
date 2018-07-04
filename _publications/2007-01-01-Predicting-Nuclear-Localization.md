@@ -1,7 +1,7 @@
 ---
 title: "Predicting Nuclear Localization"
 collection: publications
-permalink:  /publications/2007-Predicting-Nuclear-Localization 
+permalink:  /publications/2007-01-01-Predicting-Nuclear-Localization 
 excerpt: ''
 date: 2007-01-01
 venue: 'Journal of Proteome Research'
