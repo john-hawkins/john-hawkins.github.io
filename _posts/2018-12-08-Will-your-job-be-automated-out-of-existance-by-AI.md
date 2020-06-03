@@ -1,6 +1,6 @@
 ---
-title: 'Will-your-job-be-automated-out-of-existance-by-AI?'
-date: 2017-11-03
+title: 'Will your job be automated out of existance by AI?'
+date: 2018-12-08
 permalink: /posts/2018/12/Will-your-job-be-automated-out-of-existance-by-AI/
 tags:
   - data science
