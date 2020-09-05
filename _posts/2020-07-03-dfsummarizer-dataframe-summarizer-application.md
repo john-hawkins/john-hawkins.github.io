@@ -9,11 +9,12 @@ tags:
 ---
 
 Summarizing data is one of those small tasks that data scientists and analysts need to do
-routinely. However, we often need to write bespoke scripts for this and then go through
+routinely. However, we often need to write bespoke scripts to get exactly what we want, 
+coping with missing values and assorted data types. We then need to go through
 a tedious process to format it for sharing or publication.
 
-Many of the standard data summarizing rotines in common analytics packages leave a lot to be
-desire. The pandas dataframe summary function ignore missing values and only summarise numeric
+Many of the standard data summarizing routines in analytics packages leave a lot to be
+desired. The pandas dataframe summary function ignores missing values and only summarises numeric
 data. Most data scientists require more comprehensive summaries of a dataset to be sure that 
 they are taking a reasonable modelling approach. There is no substitute for deeper dives into
 specific columns and features using plots and other visualisations, however, high level summarisation
