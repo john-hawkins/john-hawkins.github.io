@@ -1,5 +1,5 @@
 ---
-title: 'Exploring diverse text derived features for machine learning'
+title: 'texturizer : Exploring diverse text derived features for machine learning'
 date: 2020-09-06
 permalink: /posts/2020/09/exploring-diverse-text-derived-features-for-machine-learning/
 tags:
