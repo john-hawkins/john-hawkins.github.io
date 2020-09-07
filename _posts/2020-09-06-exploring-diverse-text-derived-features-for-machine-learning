@@ -1,5 +1,5 @@
 ---
-title: 'texturizer : Exploring diverse text derived features for machine learning'
+title: 'Exploring diverse text derived features for machine learning'
 date: 2020-09-06
 permalink: /posts/2020/09/exploring-diverse-text-derived-features-for-machine-learning/
 tags:
@@ -19,10 +19,10 @@ learning and statistics. Bag of words and n-gram models, TfiDf, topic modelling 
 various flavours of neural network derived word embeddings provide us with a powerful set of 
 feature engineering approaches that require no domain knowledge and are widely applicable.
  
-However, most of these approaches are relatively opaque which it comes to explainable models. 
-There is also a diverse range of other ways to transform text into features for machine learning. 
-Many of these are only appropriate for particular kinds of problems, and discovering what will work
-can present a daunting task for a time limited project. 
+There are a diverse range of other ways to transform text into features for machine learning.               
+Many of these are only appropriate for particular kinds of problems because they involve domain specific 
+feature engineering scripts, and potentially bespoke dictionaries (or embedding models). 
+Discovering what will work can present a daunting task for a time limited project.
 
 To accelerate my own experimentation I have put together a text feature engineering package 
 that will take a tabular dataset and a list of text column names and generate new features. 
