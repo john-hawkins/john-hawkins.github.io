@@ -46,6 +46,10 @@ that turn out to be ineffective. Current options are:
 Many of the features in the package are derived from custom word lists and regular expressions
 which users can edit and customize to their heart's content. This means that the package should be
 easily customizable to make it work for your domain (or alternative language).  
+
+There is a bunch of work to do to make that customisation process easier. I also have a laundry list
+of additional features to add, but I feel like it is now ready for others to try. Please let me know if
+you get some value from it.
   
 [Get it here](https://github.com/john-hawkins/texturizer)
 
