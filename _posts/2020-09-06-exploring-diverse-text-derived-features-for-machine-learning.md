@@ -13,7 +13,7 @@ Text data is a potential source of valuable information for data scientists. We 
 from email records, web forms, social media, even the text descriptions from financial transactions.
 
 There are a set of very standard approaches to dealing with raw text to prepare it for machine
-learning and statistics. Bag of words and n-gram models, TfiDf, topic modelling and all of the
+learning and statistics. Bag of words and n-gram models, Tf-IDf, topic modelling and all of the
 various flavours of neural network derived word embeddings provide us with a powerful set of 
 feature engineering approaches that require no domain knowledge and are widely applicable.
  
