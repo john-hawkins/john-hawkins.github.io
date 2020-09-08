@@ -9,6 +9,8 @@ tags:
   - text mining
 ---
 
+![Texturizer : Text features for Machine Learning](/images/texturizer/Texturizer_image.png)
+
 Text data is a potential source of valuable information for data scientists. We can extract it
 from email records, web forms, social media, even the text descriptions from financial transactions.
 
