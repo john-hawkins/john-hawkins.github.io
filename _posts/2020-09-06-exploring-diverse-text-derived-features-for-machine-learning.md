@@ -9,8 +9,6 @@ tags:
   - text mining
 ---
 
-![Texturizer : Text features for Machine Learning](/images/texturizer/Texturizer_image.png)
-
 Text data is a potential source of valuable information for data scientists. We can extract it
 from email records, web forms, social media, even the text descriptions from financial transactions.
 
@@ -19,7 +17,9 @@ learning and statistics. Bag of words and n-gram models, TfiDf, topic modelling 
 various flavours of neural network derived word embeddings provide us with a powerful set of 
 feature engineering approaches that require no domain knowledge and are widely applicable.
  
-There is also a virtually unlimited number of alternative ways to transform text into features for 
+![Texturizer : Text features for Machine Learning](/images/texturizer/Texturizer_image.png)
+
+There are also a virtually unlimited number of alternative ways to transform text into features for 
 machine learning. Many of these are only appropriate for particular kinds of problems because 
 they involve domain specific feature engineering scripts, and potentially bespoke 
 dictionaries (or embedding models). Discovering what will work can present a daunting 
