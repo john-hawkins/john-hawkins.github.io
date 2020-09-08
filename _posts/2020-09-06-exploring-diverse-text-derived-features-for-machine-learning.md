@@ -51,5 +51,8 @@ There is a bunch of work to do to make that customisation process easier. I also
 of additional features to add, but I feel like it is now ready for others to try. Please let me know if
 you get some value from it.
   
-[Get it here](https://github.com/john-hawkins/texturizer)
+You can pip install it: 
+```pip install texturizer```
+  
+Or [grab the source code here](https://github.com/john-hawkins/texturizer)
 
