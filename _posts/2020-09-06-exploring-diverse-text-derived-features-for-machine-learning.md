@@ -32,15 +32,15 @@ The user can control the types of features through the command line switches and
 control the exact set of features you want to explore. Similarly, the user can switch off features
 that turn out to be ineffective. Current options are:
 
-* -topics. Indicators for the presence of words from common topics (e.g. Politics or Family). Note that these indicator words are chosen as unambiguous indicators. In other words it is not a complete vocabulary, but a vocabulary that is specific to the given topic. This switch has an additional option ```-topics=count``` which will counts all word matches from common topics.
-* -pos. Part of Speech proportions in the text.
-* -literacy. Checks for common literacy markers.
-* -traits. Checks for common stylistic elements or traits that suggest personality type.
-* -rhetoric. Checks for rhetorical devices used for persuasion.
-* -profanity. Profanity check flags.
-* -sentiment. Sentiment word counts and score, and sentiment score from the TextBlob package.
-* -emoticons. A wide variety of emoticon check flags and emoticon sentiment.
-* -comparison. Cross-column comparisons using edit distance metrics, note this is only applicable if you are running the application across multiple columnsof text.
+* ```-topics``` Indicators for the presence of words from common topics (e.g. Politics or Family). Note that these indicator words are chosen as unambiguous indicators. In other words it is not a complete vocabulary, but a vocabulary that is specific to the given topic. This switch has an additional option ```-topics=count``` which will counts all word matches from common topics.
+* ```-pos``` Part of Speech proportions in the text. Using a SpaCy language model to process and tag each word.
+* ```-literacy``` Checks for common literacy markers such as capitalisation problems or typos.
+* ```-traits``` Checks for common stylistic elements or traits that suggest personality type, such as pronoun usage.
+* ```-rhetoric``` Checks for rhetorical devices used for persuasion, for example an appeal to authority.
+* ```-profanity``` Profanity check flags, including masked profanities and racial slurs.
+* ```-sentiment``` Sentiment word counts and score plus a sentiment score from the TextBlob package.
+* ```-emoticons``` A wide variety of flags for different kinds of emoticons and emoticon sentiment.
+* ```-comparison``` Cross-column comparisons using a variety of edit distance metrics, note this is only applicable if you are running the application across multiple columns of text.
 
 
 Many of the features in the package are derived from custom word lists and regular expressions
