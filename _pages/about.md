@@ -20,7 +20,17 @@ John is building a set of open source libraries for these and other machine lear
 Projects
 ==============
 
-## Autmated Bayesian Neural Networks for Time Series Modelling
+## Minimum Viable Model Estimation
+
+To what extent can we quantify in advance how good a machine learning system needs to be in order to solve a 
+problem? In this work we are building tools to estimate the required performance levels of a model in order
+to meet business requirements specified in terms of the minimal ROI and the expected returns for predictions
+of differing levels of accuracy.
+
+Library available on [PyPI](https://pypi.org/project/minvime/1.0.0/) or [Github](https://github.com/john-hawkins/minvime)
+
+
+## Autmated Bayesian Neural Networks for Time Series Forecasting
 
 Exploring the design of an automated Bayesian forecasting system to automate the development of time-series
 forecasting in a manner that provides reliable quantifictions of forecast error.
