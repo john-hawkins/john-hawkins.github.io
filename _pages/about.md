@@ -30,12 +30,13 @@ of differing levels of accuracy.
 Library available on [PyPI](https://pypi.org/project/minvime/1.0.0/) or [Github](https://github.com/john-hawkins/minvime)
 
 
-## Autmated Bayesian Neural Networks for Time Series Forecasting
+## Automated Bayesian Neural Networks for Time Series Forecasting
 
 Exploring the design of an automated Bayesian forecasting system to automate the development of time-series
 forecasting in a manner that provides reliable quantifictions of forecast error.
 
 Collaborators: Dr. Rohitash Chandra 
+[Github](https://github.com/john-hawkins/autobayes)
 
 
 Contact
