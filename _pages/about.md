@@ -13,7 +13,8 @@ Dr. John Hawkins is a data scientist and machine learning researcher affiliated 
 He has worked across multiple industries applying machine learning to business problems and published research in the application
 of machine learning to solve problems in molecular biology. 
 
-His current research interests are in Bayesian Neural Networks and variations of the gradient boosting algorithm.
+His current research interests are in text processing and interpretation, Bayesian Neural Networks and quantification of forecast accuracy.
+John is building a set of open source libraries for these and other machine learning tasks. 
 
 
 Projects
