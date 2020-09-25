@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. John Hawkins is a data scientist and machine learning researcher affiliated with the [Transitional AI Group](trans-ai.github.io)
+Dr. John Hawkins is a data scientist and machine learning researcher affiliated with the [Transitional AI Group](http://trans-ai.github.io)
  out of UNSW.
 He has worked across multiple industries applying machine learning to business problems and published research in the application
 of machine learning to solve problems in molecular biology. 
