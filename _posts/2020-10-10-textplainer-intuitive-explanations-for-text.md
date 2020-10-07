@@ -1,7 +1,7 @@
 ---
-title: 'textplain : Intuitive explanations for text based machine learning models'
+title: 'textplainer : Intuitive explanations for text based machine learning models'
 date: 2020-10-10
-permalink: /posts/2020/10/textplain-intuitive-explanations-for-text/
+permalink: /posts/2020/10/textplainer-intuitive-explanations-for-text/
 tags:
   - data science
   - natural language processing
@@ -23,5 +23,5 @@ explanations, and there is no intuitive way to do permutation based feature impo
 In the package we will explore methods of understanding the sub-structures of text that drive
 predictive performance.
   
-[In Development Here](https://github.com/john-hawkins/textplain)
+[In Development Here](https://github.com/john-hawkins/textplainer)
 
