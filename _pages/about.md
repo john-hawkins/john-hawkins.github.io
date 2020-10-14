@@ -27,7 +27,7 @@ problem? In this work we are building tools to estimate the required performance
 to meet business requirements specified in terms of the minimal ROI and the expected returns for predictions
 of differing levels of accuracy.
 
-Library available on [PyPI](https://pypi.org/project/minvime/) or [Github](https://github.com/john-hawkins/minvime)
+* MinViME Library available on [PyPI](https://pypi.org/project/minvime/) or [Github](https://github.com/john-hawkins/minvime)
 
 
 ## Interpretable Text in Machine Learning
@@ -36,8 +36,8 @@ Modern advances in interpretable machine learning are generally less applicable 
 In this work we are exploring methods to render the contributions of text data more transparent regardless
 of the preprocessing or machine learning model that is used.
 
-Texturizer Library available on [PyPI](https://pypi.org/project/texturizer/) or [Github](https://github.com/john-hawkins/texturizer)
-Textplainer Library in development.  On [Github](https://github.com/john-hawkins/textplainer)
+* Texturizer Library available on [PyPI](https://pypi.org/project/texturizer/) or [Github](https://github.com/john-hawkins/texturizer)
+* Textplainer Library in development. [Github](https://github.com/john-hawkins/textplainer)
 
 
 
