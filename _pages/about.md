@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Dr. John Hawkins is a data scientist and machine learning researcher affiliated with the [Transitional AI Group](http://trans-ai.github.io)
- out of UNSW.
-He has worked across multiple industries applying machine learning to business problems and published research in the application
-of machine learning to solve problems in molecular biology. 
+ 
+Dr. John Hawkins is the Chief Scientist with [Playground XYZ](https://playground.xyz/), a machine learning advisor to health tech startup [HealthVox](https://www.linkedin.com/company/healthvox/), and a machine learning researcher affiliated with the [Transitional AI Group](http://trans-ai.github.io)
+ out of UNSW. He has worked across multiple industries applying machine learning to business problems and published acasemic research in the application of machine learning to solve problems in molecular biology. 
 
 His current research interests are in NLP text processing and model interpretation, Bayesian Neural Networks and quantification of forecast accuracy.
 John is building a set of open source libraries for these and other machine learning tasks. 
