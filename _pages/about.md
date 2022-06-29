@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
  
-Dr. John Hawkins is the Chief Scientist with [Playground XYZ](https://playground.xyz/), a machine learning advisor to health tech startup [HealthVox](https://www.linkedin.com/company/healthvox/), and a machine learning researcher affiliated with the [Transitional AI Group](http://trans-ai.github.io)
- out of UNSW. He has worked across multiple industries applying machine learning to business problems and published acasemic research in the application of machine learning to solve problems in molecular biology. 
+Dr. John Hawkins is the Chief Scientist with [Playground XYZ](https://playground.xyz/), a machine learning advisor to health tech startup [HealthVox](https://www.linkedin.com/company/healthvox/), and a machine learning researcher affiliated with the [Transitional AI Group](http://trans-ai.github.io) out of UNSW. 
 
-His current research interests are in NLP text processing and model interpretation, Bayesian Neural Networks and quantification of forecast accuracy.
+He has worked across multiple industries applying machine learning to business problems and published acasemic research in the application of machine learning to solve problems in molecular biology. His current research interests are in NLP text processing and model interpretation, Bayesian Neural Networks and quantification of forecast accuracy.
 John is building a set of open source libraries for these and other machine learning tasks. 
 
 
@@ -38,6 +37,14 @@ of the preprocessing or machine learning model that is used.
 * Textplainer Library in development. [Github](https://github.com/john-hawkins/textplainer)
 
 
+## Data Science Project Management & Integration 
+
+Data science projects require rapid experimentation and exploration of problem spaces. This is typically enabled by using
+loosely coupled tools and processes. In this work we are developing simple CLI tooling for connecting data and experimental
+resources so that results can easily be compared and managed without undue coupling and dependency creation.
+
+* Projit library and command line tool: [PyPI](https://pypi.org/project/projit/) or [Github](https://github.com/john-hawkins/projit)
+
 
 ## Automated Bayesian Neural Networks for Time Series Forecasting
 
@@ -45,8 +52,8 @@ Exploring the design of an automated Bayesian forecasting system to automate the
 forecasting in a manner that provides reliable quantifictions of forecast error.
 
 Collaborators: Dr. Rohitash Chandra 
-[Github](https://github.com/john-hawkins/autobayes)
-
+* [Github](https://github.com/john-hawkins/autobayes)
+* PROJECT IN PLANNING -- DEVELOPMENT ON HOLD
 
 Contact
 -------
