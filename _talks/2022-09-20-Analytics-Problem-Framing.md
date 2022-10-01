@@ -9,10 +9,11 @@ location: "UNSW - Sydney Australia"
 ---
 
 In this guest lecture at the Australian Graduate School of Management 
-we discussed a range of fundamental issues about problem framing that
-managers can need to understand to drive successful projects. 
+we discussed a range of fundamental ideas in analytics projects.
+All of these ideas relate to framing problems such that they have a 
+greater chance of success.
 
-Ket topics included types of analytics solutions and their requirements,
-the choice of metrics, and unerstanding the timing between data collection, 
-decisions being made, action being taken and measuring impact.
+Key topics included types of analytics solutions and their requirements,
+the choice of metrics, and understanding the timing between data collection, 
+model building, decisions being made, action being taken and measuring impact.
 
