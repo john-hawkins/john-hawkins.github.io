@@ -18,7 +18,8 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim(timeout=10)
+#geocoder = Nominatim(timeout=10) 
+geocoder = Nominatim(user_agent="talkmap", timeout=10)
 location_dict = {}
 location = ""
 permalink = ""

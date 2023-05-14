@@ -1,8 +1,8 @@
 var addressPoints = [
   [
     "Sydney Australia",
-    -33.8548157,
-    151.2164539
+    -33.8698439,
+    151.2082848
   ],
   [
     "Auckland, New Zealand",
@@ -16,8 +16,18 @@ var addressPoints = [
   ],
   [
     "Mexico City, Mexico",
-    19.4326009,
-    -99.1333416
+    19.4326296,
+    -99.1331785
+  ],
+  [
+    "UNSW - Sydney Australia",
+    -33.9170154,
+    151.22518231269635
+  ],
+  [
+    "London - United Kingdom",
+    51.5073359,
+    -0.12765
   ],
   [
     "Dresden, Germany",
@@ -26,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Sydney, Australia",
-    -33.8548157,
-    151.2164539
+    -33.8698439,
+    151.2082848
   ],
   [
     "Stockholm, Sweden",
@@ -42,7 +52,7 @@ var addressPoints = [
   [
     "Vancouver, Canada",
     49.2608724,
-    -123.1139529
+    -123.113952
   ],
   [
     "Singapore",
