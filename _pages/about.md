@@ -17,6 +17,16 @@ John is building a set of open source libraries for these and other machine lear
 Projects
 ==============
 
+## Uncertainty Quantification and Media Impact in Eye Tracking Studies
+
+Multiple streams of research aimed at understanding and improving processes for
+measuring consumer attention while consuming media.
+
+## Natural Language Processing for Systematic Review in Biomedical Research
+
+An investigation into machine learning methods for automated filtering of reserch
+papers extracted from biomedical database seraches.
+
 ## Minimum Viable Model Estimation
 
 To what extent can we quantify in advance how good a machine learning system needs to be in order to solve a 
