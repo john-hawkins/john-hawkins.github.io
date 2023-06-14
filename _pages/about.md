@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
  
-Dr. John Hawkins is the Chief Scientist with [Playground XYZ](https://playground.xyz/), a machine learning advisor to health tech startup [HealthVox](https://www.linkedin.com/company/healthvox/), and a machine learning researcher affiliated with the [Transitional AI Group](http://trans-ai.github.io) out of UNSW. 
+Dr. John Hawkins is the Chief Scientist with [Playground XYZ](https://playgroundxyz.com/)
+and a machine learning researcher affiliated with the [Transitional AI Group](https://transitional-ai.github.io/) out of UNSW. 
 
-He has worked across multiple industries applying machine learning to business problems and published acasemic research in the application of machine learning to solve problems in molecular biology. His current research interests are in NLP text processing and model interpretation, Bayesian Neural Networks and quantification of forecast accuracy.
+He has worked across multiple industries applying machine learning to business problems and published academic research in the 
+application of machine learning to multiple domain areas, but with a focus on solving problems in molecular biology. 
+His current research interests are in processing text data, model interpretation, Bayesian methos and quantification of forecast accuracy.
 John is building a set of open source libraries for these and other machine learning tasks. 
 
 
@@ -24,7 +27,7 @@ measuring consumer attention while consuming media.
 
 ## Natural Language Processing for Systematic Review in Biomedical Research
 
-An investigation into machine learning methods for automated filtering of reserch
+An investigation into machine learning methods for automated filtering of research
 papers extracted from biomedical database seraches.
 
 ## Minimum Viable Model Estimation
