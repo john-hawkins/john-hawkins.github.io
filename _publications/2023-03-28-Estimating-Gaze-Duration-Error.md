@@ -17,3 +17,5 @@ Eye tracking applications produce a series of gaze fixation points that can be a
 
 In this work we develop an algorithm for estimating the error distribution of gaze duration measurement through Monte Carlo simulation using the content of an eye tracking calibration log file. We provide this algorithm in an open source application to allow researchers to understand the error in their gaze duration measurements. We use this application to conduct experiments on the expected error bounds for different duration measurements across a fixed session length for a simulated advertising area of interest study on a mobile device. The results indicate that error in gaze duration estimation is sensitive to fixation error beyond a bound that will depend on the size of interest and the session length.
 
+[Download paper here](https://dl.acm.org/doi/10.1145/3591156.3591166)
+
