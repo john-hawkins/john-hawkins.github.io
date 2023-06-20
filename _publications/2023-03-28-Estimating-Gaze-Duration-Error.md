@@ -8,7 +8,8 @@ venue: ''
 paperurl: ''
 citation: 'Hawkins, John.
 (2023) &quot;Estimating Gaze Duration Error with Eye Tracking Data&quot; 
-4th International Conference on Machine Learning and Human-Computer Interaction (2023) · Mar 25, 2023
+Proceedings of the 2023 5th International Conference on Image, Video and Signal Processing
+Pages 70-75, Mar 25, 2023
 '
 --- 
 Abstract
