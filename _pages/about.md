@@ -9,12 +9,14 @@ redirect_from:
 ---
  
 Dr. John Hawkins is the Chief Scientist with [Playground XYZ](https://playgroundxyz.com/)
-and a machine learning researcher affiliated with the [Transitional AI Group](https://transitional-ai.github.io/) out of UNSW. 
+and a machine learning researcher affiliated with the 
+[Transitional AI Group](https://transitional-ai.github.io/) out of UNSW. 
 
-He has worked across multiple industries applying machine learning to business problems and published academic research in the 
-application of machine learning to multiple domain areas, but with a focus on solving problems in molecular biology. 
-His current research interests are in processing text data, model interpretation, Bayesian methos and quantification of forecast accuracy.
-John is building a set of open source libraries for these and other machine learning tasks. 
+He has worked across multiple industries applying machine learning to business problems and 
+published academic research in the application and analysis of machine learning systems.
+His current research interests are in advanced text prcocessing, model interpretation, algorithmic
+reasoning and quantification of uncertainty. He continues to develop multiple open source
+libraries for these projects in a commitment to open and reproducible data science.
 
 
 Projects
@@ -52,8 +54,9 @@ of the preprocessing or machine learning model that is used.
 
 ## Data Science Project Management & Integration 
 
-Data science projects require rapid experimentation and exploration of problem spaces. This is typically enabled by using
-loosely coupled tools and processes. In this work we are developing simple CLI tooling for connecting data and experimental
+Data science projects require rapid experimentation and exploration of problem spaces. 
+This is typically enabled by using loosely coupled tools and processes. In this work we are 
+developing simple CLI tooling for connecting data and experimental
 resources so that results can easily be compared and managed without undue coupling and dependency creation.
 
 * Projit library and command line tool: [PyPI](https://pypi.org/project/projit/) or [Github](https://github.com/john-hawkins/projit)
