@@ -1,5 +1,5 @@
 ---
-title: "Brands, Verticals & Contexts"
+title: "Brands, Verticals & Contexts: Coherence Patterns in Consumer Attention"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-08-19-Brands-Verticals-Contexts
