@@ -30,5 +30,7 @@ attention is related to an alignment between the creative execution and topics o
 context. Furthermore, we show that this relationship transcends any specific publication
 by providing reliable indications of attention on new website domains.
 
-http://www.iccda.org
+Conference Website : [http://www.iccda.org](http://www.iccda.org)
+ 
+Link to paper: https://doi.org/10.1145/3629264.3629265
 
