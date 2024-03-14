@@ -25,12 +25,17 @@ Projects
 ## Uncertainty Quantification and Media Impact in Eye Tracking Studies
 
 Multiple streams of research aimed at understanding and improving processes for
-measuring consumer attention while consuming media.
-
+measuring eye tracking based consumer attention on digital media.
+  
+* [Estimating Gaze Duration Error from Eye Tracking Data](https://dl.acm.org/doi/10.1145/3591156.3591166)
+* [Evaluating Ad Creative and Web Context Alignment with Attention Measurement](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICCDA2023/1/f3c42a18-7222-11ee-b37c-16bb50361d1f/OUT/iccda2023-1.html)
+* [Brands, Verticals and Contexts: Coherence Patterns in Consumer Attention](https://www.researchgate.net/publication/373213816_Brands_Verticals_and_Contexts_Coherence_Patterns_in_Consumer_Attention)
+ 
 ## Natural Language Processing for Systematic Review in Biomedical Research
 
 An investigation into machine learning methods for automated filtering of research
 papers extracted from biomedical database seraches.
+
 
 ## Minimum Viable Model Estimation
 
@@ -45,9 +50,10 @@ of differing levels of accuracy.
 ## Interpretable Text in Machine Learning
 
 Modern advances in interpretable machine learning are generally less applicable to text data sources.
-In this work we are exploring methods to render the contributions of text data more transparent regardless
-of the preprocessing or machine learning model that is used.
-
+In this work we are exploring methods to render the contributions of unstructured text data more transparent 
+regardless of how it is being processed or the machine learning model that is used.
+ 
+* [What's in a Domain? Analysis of URL Features](https://www.researchgate.net/publication/373237120_What%27s_in_a_Domain_Analysis_of_URL_Features)
 * Texturizer Library available on [PyPI](https://pypi.org/project/texturizer/) or [Github](https://github.com/john-hawkins/texturizer)
 * Textplainer Library in development. [Github](https://github.com/john-hawkins/textplainer)
 
