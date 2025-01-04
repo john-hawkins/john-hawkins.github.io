@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
  
-Dr. John Hawkins is the Chief Scientist with [Playground XYZ](https://playgroundxyz.com/)
+Dr. John Hawkins is the Chief Scientist with [GumGum](https://gumgum.com/), director of
+Artificial Intelligence research with the non-profit [Pingla Institute](https://pingla.org.au)
 and a machine learning researcher affiliated with the 
 [Transitional AI Group](https://transitional-ai.github.io/) out of UNSW. 
 
@@ -28,19 +29,20 @@ Projects
 Multiple streams of research aimed at understanding and improving processes for
 measuring eye tracking based consumer attention on digital media.
 
-
 * Estimating Attention Thresholds for Brand Impact - (Submitted)  
 * [Estimating Gaze Duration Error from Eye Tracking Data](https://dl.acm.org/doi/10.1145/3591156.3591166)
 * [Evaluating Ad Creative and Web Context Alignment with Attention Measurement](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICCDA2023/1/f3c42a18-7222-11ee-b37c-16bb50361d1f/OUT/iccda2023-1.html)
 * [Brands, Verticals and Contexts: Coherence Patterns in Consumer Attention](https://www.researchgate.net/publication/373213816_Brands_Verticals_and_Contexts_Coherence_Patterns_in_Consumer_Attention)
  
-## Natural Language Processing and Text Explainability
+## Natural Language Processing, Reasoning and Explainability
 
 Investigations into applications and interpretations of machine learning methods for 
-automation of text data processing. Including classification of internet content and
+pure text based systems: including classification, generation and reasoning from text.
+Projects including classification of internet content and
 filtering of research papers extracted from biomedical database searches.
 
 * [Literature Filtering for Systematic Reviews with Transformers](https://dl.acm.org/doi/10.1145/3676581.3676582)
+* [Enhanced Review Detection and Recognition: A Platform-Agnostic Approach with Application to Online Commerce](https://arxiv.org/abs/2405.06704)
 
 Modern advances in interpretable machine learning are generally less applicable to text 
 data sources. We are exploring methods to render the contributions of unstructured 
