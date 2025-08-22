@@ -1,10 +1,10 @@
 ---
-title: "What's in a Domain? Analysis of URL Features"
+title: "What\'s in a Domain? Analysis of URL Features"
 collection: publications
 permalink: /publication/2023-08-19-Whats-in-a-domain.md
 excerpt: ''
 date: 2023-08-19
-venue: ''
+venue: 'Chennai, India'
 paperurl: ''
 citation: 'Hawkins, John.
 (2023) &quot;What's in a Domain? Analysis of URL Features&quot; 
