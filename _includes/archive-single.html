@@ -54,7 +54,7 @@
         <div align="left">
             <img src="/images/{{ post.thumbnail }}" alt="Book Thumbnail Image" width="100"/>
         </div>
-        <div  align="right">
+        <div style="text-align: left;">
         {{ post.excerpt | markdownify }}
         </div>
     </div>
@@ -67,7 +67,7 @@
         <div align="left">
             <img src="/images/{{ post.thumbnail }}" alt="Book Thumbnail Image" width="100"/>
         </div>
-        <div align="right">
+        <div style="text-align: left;">
         {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
            <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
         </div>
