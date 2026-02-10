@@ -48,7 +48,9 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
 
-    <div class="archive__item-excerpt" itemprop="description">
+    
+    <p class="archive__item-excerpt" itemprop="description">
+    <div style="display: grid;grid-template-columns: 1fr 5fr; grid-gap: 20px;">
         <div align="left">
             <img src="/images/{{ post.thumbnail }}" alt="Book Thumbnail Image" width="100"/>
         </div>
@@ -56,20 +58,21 @@
         {{ post.excerpt | markdownify }}
         </div>
     </div>
+    </p>
 
     {% elsif post.excerpt and site.read_more == 'enabled' %}
 
-    <div class="archive__item-excerpt" itemprop="description">
+    <p class="archive__item-excerpt" itemprop="description">
+    <div style="display: grid;grid-template-columns: 1fr 5fr; grid-gap: 20px;">
         <div align="left">
             <img src="/images/{{ post.thumbnail }}" alt="Book Thumbnail Image" width="100"/>
         </div>
-        <div  align="right">
-        <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+        <div align="right">
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
            <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        </p>
         </div>
     </div>
-
+    </p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
