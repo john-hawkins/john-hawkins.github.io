@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-Dr. John Hawkins is an indepedent author and consultant, director of
+Dr. John Hawkins is the Chief AI Officer with [Instersect AI](https://theintersect.ai), director of
 Artificial Intelligence research with the non-profit [Pingla Institute](https://pingla.org.au)
 and a machine learning researcher affiliated with the 
 [Transitional AI Group](https://transitional-ai.github.io/) out of UNSW. 
