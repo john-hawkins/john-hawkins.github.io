@@ -47,16 +47,19 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">
+
+    <div class="archive__item-excerpt" itemprop="description">
         <div align="left">
             <img src="/images/{{ post.thumbnail }}" alt="Book Thumbnail Image" width="100"/>
         </div>
         <div  align="right">
         {{ post.excerpt | markdownify }}
         </div>
-    </p>
+    </div>
+
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">
+
+    <div class="archive__item-excerpt" itemprop="description">
         <div align="left">
             <img src="/images/{{ post.thumbnail }}" alt="Book Thumbnail Image" width="100"/>
         </div>
@@ -65,7 +68,8 @@
            <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
         </p>
         </div>
-    </p>
+    </div>
+
     {% endif %}
     
     {% if post.citation and post.paperurl %}
