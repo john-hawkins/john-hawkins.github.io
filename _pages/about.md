@@ -15,7 +15,7 @@ and a machine learning researcher affiliated with the
 
 He works across multiple industries applying machine learning to business problems and 
 publishing academic research in the application and analysis of machine learning systems.
-His current research interests are in advanced text prcocessing, model interpretation, 
+His current research interests are in advanced text processing, model interpretation, 
 algorithmic reasoning and the quantification of uncertainty. 
 He continues to develop multiple open source libraries for these projects in a commitment 
 to open and reproducible data science.
