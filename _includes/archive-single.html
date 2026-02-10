@@ -48,7 +48,12 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">
+        <div align="left">
+            <img src="/images/{{ post.thumbnail }}" alt="Book Thumbnail Image" width="100"/>
+        </div>
+        <div  align="right">
         {{ post.excerpt | markdownify }}
+        </div>
     </p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">
